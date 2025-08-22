@@ -104,6 +104,13 @@ immoscout24 cleaner, immoscout24 hide sponsored, immoscout24 gesponsert entferne
 </details>
 </details>
 
+<details>
+<summary><h3>⚠️ Disclaimer</h3></summary>
+
+This project is created **for educational and personal learning purposes only**.  
+It is not affiliated with, endorsed by, or connected to **ImmoScout24** or its parent companies.  
+Use at your own risk. The author assumes no responsibility for any consequences arising from the use of this script.
+</details>
 
 ### 🤝 Contributing
 
